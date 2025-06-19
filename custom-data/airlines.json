@@ -389,4 +389,9 @@
     "callsign": "Hermann Cargo",
     "virtual": true
   }
+    "icao": "THA",
+    "name": "Thai Airways Virtual",
+    "callsign": "Thai",
+    "virtual": true
+  }
 ]
